@@ -1,4 +1,4 @@
-# Hi, I'm Anna Geiser 👋
+# Hi, I'm Anna 👋
 
 I'm a developer focused on building practical, user-friendly software and growing through continuous learning, hands-on projects, and collaboration. I enjoy solving problems thoughtfully, writing maintainable code, and turning ideas into reliable digital experiences.
 
@@ -10,7 +10,7 @@ I'm a developer focused on building practical, user-friendly software and growin
 
 ## Tools I use
 
-- **Languages:** JavaScript, TypeScript, Python
+- **Languages:** Python, JavaScript, TypeScript, 
 - **Frontend:** HTML, CSS, React
 - **Backend:** Node.js
 - **Development:** Git, GitHub, VS Code
@@ -21,7 +21,6 @@ I'm a developer focused on building practical, user-friendly software and growin
 I'm always happy to connect with recruiters, developers, and people working on interesting products.
 
 - **GitHub:** [github.com/annageiser](https://github.com/annageiser)
-- **LinkedIn:** [Connect with me on LinkedIn](#)
-- **Email:** [Contact me by email](mailto:your.email@example.com)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/annageiser/)
 
 > Interested in working together? Feel free to reach out!
