@@ -1,6 +1,6 @@
 # Hi, I'm Anna 👋
 
-I'm a developer focused on building practical, user-friendly software and growing through continuous learning, hands-on projects, and collaboration. I enjoy solving problems thoughtfully, writing maintainable code, and turning ideas into reliable digital experiences.
+I'm a developer besides working as a Business Analyst. I'm focused on building practical, user-friendly software and growing through continuous learning, hands-on projects, and collaboration. I enjoy solving problems thoughtfully, writing maintainable code, and turning ideas into reliable digital experiences.
 
 ## What I'm currently working on
 
@@ -10,7 +10,7 @@ I'm a developer focused on building practical, user-friendly software and growin
 
 ## Tools I use
 
-- **Languages:** Python, JavaScript, TypeScript, 
+- **Languages:** Python, JavaScript, TypeScript
 - **Frontend:** HTML, CSS, React
 - **Backend:** Node.js
 - **Development:** Git, GitHub, VS Code
