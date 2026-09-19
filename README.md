@@ -20,7 +20,6 @@ I'm a developer besides working as a Business Analyst. I'm focused on building p
 
 I'm always happy to connect with recruiters, developers, and people working on interesting products.
 
-- **GitHub:** [github.com/annageiser](https://github.com/annageiser)
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/annageiser/)
 
 > Interested in working together? Feel free to reach out!
